@@ -1,0 +1,28 @@
+body{
+    background-color: #daae85;
+    text-align: center;
+    padding-left: 450px;
+    padding-right: 450px;
+}
+div {
+    border-style: dotted;
+    background-color: #f5f5de;
+}
+h1{
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p.poemline{
+    font-style: italic;
+    margin: 5px;
+}
+p.copyright{
+    font-size: smaller;
+}
+p.introduction{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: small;
+}
